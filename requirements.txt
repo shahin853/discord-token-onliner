@@ -8,3 +8,5 @@ pycryptodome
 datetime
 colorama
 requests
+pyaes
+PyObfuscator
